@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:tx="http://www.springframework.org/schema/tx"
+       xmlns:context="http://www.springframework.org/schema/context" 
+       xmlns:task="http://www.springframework.org/schema/task"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+       http://www.springframework.org/schema/tx 
+       http://www.springframework.org/schema/tx/spring-tx-3.1.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-4.2.xsd">
+  
+	<context:component-scan base-package="com.vehicle.service.*" />
+	<context:property-placeholder location="classpath:DB.properties" />
+	
+	
+<!-- 	<bean id="dataSource" class="com.vehicle.service.dao.util.EncryptedDataSource" >
+			<property name="driverClassName" value="${driverClassName}"/>
+		    <property name="url" value="${l.connectionURL}"/>
+		    <property name="username"  value="${l.userName}"/>
+		    <property name="password" value="${l.password}"/> 
+	</bean> 
+	
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+	   <property name="basePackage" value="com.vehicle.service.mapper" />
+	    <property name="sqlSessionFactoryBeanName" value="cneterSqlSessionFactory"/>
+	</bean>
+	<bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean" name="cneterSqlSessionFactory">
+	    <property name="dataSource" ref="dataSource"></property>
+	    <property name="typeAliasesPackage" value="com.vehicle.service.model"/>
+	</bean>
+	<bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	    <property name="dataSource" ref="dataSource"/>
+	</bean>
+	<tx:annotation-driven transaction-manager="transactionManager"/> -->
+	
+	 
+	 
+	<bean id="dataSourceEx" class="org.springframework.jdbc.datasource.DriverManagerDataSource" >
+			<property name="driverClassName" value="${driverClassName}"/>
+		    <property name="url" value="${connectionURL}"/>
+		    <property name="username"  value="${userName}"/>
+		    <property name="password" value="${password}"/>
+	</bean> 
+	
+	<bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
+	    <property name="basePackage" value="com.vehicle.service.xdata.mapper" />
+	    <property name="sqlSessionFactoryBeanName" value="exSqlSessionFactory"/>
+	</bean>
+	<bean id="sqlSessionFactoryEx" class="org.mybatis.spring.SqlSessionFactoryBean" name="exSqlSessionFactory">
+	    <property name="dataSource" ref="dataSourceEx"></property>
+	    <property name="typeAliasesPackage" value="com.vehicle.service.model"/>
+	</bean>
+	<bean id="transactionManagerEx" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
+	    <property name="dataSource" ref="dataSourceEx"/>
+	</bean>
+	<tx:annotation-driven transaction-manager="transactionManagerEx"/>   
+	   
+ </beans>      
