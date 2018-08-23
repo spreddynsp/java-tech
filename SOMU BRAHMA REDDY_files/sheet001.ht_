@@ -1,0 +1,345 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 12">
+<link id=Main-File rel=Main-File href="../SOMU%20BRAHMA%20REDDY.xls">
+<link rel=File-List href=filelist.xml>
+<link rel=Stylesheet href=stylesheet.css>
+<style>
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+@page
+	{margin:1.0in .75in 1.0in .75in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;}
+-->
+</style>
+<![if !supportTabStrip]><script language="JavaScript">
+<!--
+function fnUpdateTabs()
+ {
+  if (parent.window.g_iIEVer>=4) {
+   if (parent.document.readyState=="complete"
+    && parent.frames['frTabs'].document.readyState=="complete")
+   parent.fnSetActiveSheet(0);
+  else
+   window.setTimeout("fnUpdateTabs();",150);
+ }
+}
+
+if (window.name!="frSheet")
+ window.location.replace("../SOMU%20BRAHMA%20REDDY.xls");
+else
+ fnUpdateTabs();
+//-->
+</script>
+<![endif]>
+</head>
+
+<body link=blue vlink=purple>
+
+<table border=0 cellpadding=0 cellspacing=0 width=904 style='border-collapse:
+ collapse;table-layout:fixed;width:679pt'>
+ <col width=43 style='mso-width-source:userset;mso-width-alt:1572;width:32pt'>
+ <col width=61 style='mso-width-source:userset;mso-width-alt:2230;width:46pt'>
+ <col width=75 style='mso-width-source:userset;mso-width-alt:2742;width:56pt'>
+ <col width=418 style='mso-width-source:userset;mso-width-alt:15286;width:314pt'>
+ <col width=77 style='mso-width-source:userset;mso-width-alt:2816;width:58pt'>
+ <col width=40 style='mso-width-source:userset;mso-width-alt:1462;width:30pt'>
+ <col width=62 style='mso-width-source:userset;mso-width-alt:2267;width:47pt'>
+ <col width=64 span=2 style='width:48pt'>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=9 height=20 class=xl65 width=904 style='border-right:.5pt solid #CCCCCC;
+  height:15.0pt;width:679pt'>Account Statement for 1142104000078825</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td colspan=9 height=20 class=xl68 width=904 style='border-right:.5pt solid #CCCCCC;
+  height:15.0pt;width:679pt'>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=9 height=20 class=xl68 width=904 style='border-right:.5pt solid #CCCCCC;
+  height:15.0pt;width:679pt'>Account Id 1142104000078825 : SOMU BRAHMA REDDY</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=9 height=20 class=xl68 width=904 style='border-right:.5pt solid #CCCCCC;
+  height:15.0pt;width:679pt'>Statement Criteria</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td colspan=9 height=20 class=xl68 width=904 style='border-right:.5pt solid #CCCCCC;
+  height:15.0pt;width:679pt'>Transactions Date from 01/01/18 to 08/06/18</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td colspan=9 height=20 class=xl65 width=904 style='border-right:.5pt solid #CCCCCC;
+  height:15.0pt;width:679pt'>&nbsp;</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl71 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>Sl No.</td>
+  <td class=xl71 width=61 style='border-top:none;border-left:none;width:46pt'>Txn
+  Date</td>
+  <td class=xl71 width=75 style='border-top:none;border-left:none;width:56pt'>Value
+  Date</td>
+  <td class=xl79 style='border-top:none;border-left:none'>Description</td>
+  <td class=xl71 width=77 style='border-top:none;border-left:none;width:58pt'>ChequeNo.</td>
+  <td class=xl71 width=40 style='border-top:none;border-left:none;width:30pt'>Cr/Dr</td>
+  <td class=xl71 width=62 style='border-top:none;border-left:none;width:47pt'>Txn
+  Type</td>
+  <td colspan=2 class=xl65 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>Txn Amount(INR)</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>1</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>05-06-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>05-06-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/815611247921/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>16,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>3</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>04-06-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>04-06-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/815513501718/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>5,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>4</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>04-06-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>04-06-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/815509269528/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>4,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>7</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>31-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>31-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/815115773752/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>4,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>10</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>24-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>24-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/814412530936/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>9,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>11</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>21-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>21-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/814112635698/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>10,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>12</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>18-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>18-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/813813025745/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>3,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>13</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>18-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>18-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/813810873291/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>3,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>14</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>16-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>16-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/813614787312/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>2,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>15</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>14-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>14-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/813409162977/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>1,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>16</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>11-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>11-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/813109504571/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>2,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>17</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>10-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>10-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/813012962844/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>2,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>19</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>02-05-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>02-05-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/812213467067/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>5,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>24</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>27-04-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>27-04-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/811709090976/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl77 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>500</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>28</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>04-04-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>04-04-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/809407786450/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>4,000.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>30</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>26-03-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>26-03-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/808513669817/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>2,700.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>31</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>23-03-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>23-03-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/808215083374/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>1,350.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>32</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>23-03-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>23-03-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/808210844813/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>2,350.00</td>
+ </tr>
+ <tr height=20 style='mso-height-source:userset;height:15.0pt'>
+  <td height=20 class=xl72 width=43 style='height:15.0pt;border-top:none;
+  width:32pt'>33</td>
+  <td class=xl73 width=61 style='border-top:none;border-left:none;width:46pt'>20-03-18</td>
+  <td class=xl73 width=75 style='border-top:none;border-left:none;width:56pt'>20-03-18</td>
+  <td class=xl80 style='border-top:none;border-left:none'>UPI/807921380704/ZERODHA</td>
+  <td class=xl72 width=77 style='border-top:none;border-left:none;width:58pt'>&nbsp;</td>
+  <td class=xl72 width=40 style='border-top:none;border-left:none;width:30pt'>DR</td>
+  <td class=xl72 width=62 style='border-top:none;border-left:none;width:47pt'>Transfer</td>
+  <td colspan=2 class=xl75 width=128 style='border-right:.5pt solid #CCCCCC;
+  border-left:none;width:96pt'>5,000.00</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 colspan=8 style='height:15.0pt;mso-ignore:colspan'></td>
+  <td class=xl74 align=right>81,900.00</td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=43 style='width:32pt'></td>
+  <td width=61 style='width:46pt'></td>
+  <td width=75 style='width:56pt'></td>
+  <td width=418 style='width:314pt'></td>
+  <td width=77 style='width:58pt'></td>
+  <td width=40 style='width:30pt'></td>
+  <td width=62 style='width:47pt'></td>
+  <td width=64 style='width:48pt'></td>
+  <td width=64 style='width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</body>
+
+</html>
