@@ -1,2 +1,2 @@
 # java-tech
-java related projects
+java related projects are available here.
